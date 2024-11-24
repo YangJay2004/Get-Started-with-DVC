@@ -1,3 +1,5 @@
 tmp
 .history
 venv
+/model.pkl
+/eval

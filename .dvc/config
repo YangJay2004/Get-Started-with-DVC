@@ -1,0 +1,4 @@
+[core]
+    remote = myromote
+['remote "myromote"']
+    url = ../tmp/dvcstore
